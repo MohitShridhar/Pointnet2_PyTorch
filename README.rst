@@ -1,12 +1,9 @@
-Pointnet2/Pointnet++ PyTorch
+Pointnet2/Pointnet++ (for torch 1.1.0)
 ============================
 
 * Implemention of Pointnet2/Pointnet++ written in `PyTorch <http://pytorch.org>`_.
 
 * Supports Multi-GPU via `nn.DataParallel <https://pytorch.org/docs/stable/nn.html#torch.nn.DataParallel>`_.
-
-* Supports PyTorch version >= 1.0.0.  Use `v1.0 <https://github.com/erikwijmans/Pointnet2_PyTorch/releases/tag/v1.0>`_
-  for support of older versions of PyTorch.
 
 
 See the official code release for the paper (in tensorflow), `charlesq34/pointnet2 <https://github.com/charlesq34/pointnet2>`_,
